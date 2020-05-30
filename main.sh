@@ -137,12 +137,6 @@ two(){
         echo "CTL+A+D"
         echo "======================"
         pause
-		
-
-
-
-
-        pause
 }
 #web scrappng
 three(){
