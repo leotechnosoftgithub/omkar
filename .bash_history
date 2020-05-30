@@ -126,3 +126,43 @@ cal
 cal 2020
 python ps.py 
 exit
+cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/ad02.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/ad02.sh.log 
+cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/ad01.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/ad01.sh.log 
+cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/ad05.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/ad05.sh.log 
+cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/ad04.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/ad04.sh.log 
+cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/tread 13-05-2020 | tee ./logs/images/May/13-05-2020/tread.log 
+cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil02.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil02.sh.log 
+cat ./imageurls/May/13-05-2020/scripts/anil02.sh
+cat ./imageurls/May/13-05-2020/urls/02
+cat ./imageurls/May/13-05-2020/urls/02
+exit
+cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil01.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil01.sh.log 
+cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil03.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil03.sh.log 
+cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil03.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil03.sh.log 
+nano /root/.ssh/mst.pem
+exit
+cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil01.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil01.sh.log 
+cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil02.sh.log 
+cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil04.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil04.sh.log 
+cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil04.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil04.sh.log 
+cd /var/ccd /root/.ssh/
+ll
+cd /root/.ssh/
+ll
+ls -la
+nano chmod 400 mst.pem 
+ll
+ls -la
+chmod 400 mst.pem 
+ll
+ls
+ -la
+ls -la
+exit
+cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil02.sh.log 
+cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil02.sh.log 
+nano /root/.ssh/mst.pem
+cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil02.sh.log 
+chmod 600 /root/.ssh/mst.pem 
+cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil02.sh.log 
+exit
