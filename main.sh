@@ -122,7 +122,7 @@ two(){
         spath=./videourls/"$MONTH"/"$IDATE"/scripts
         for i in `cat ./videourls/"$MONTH"/"$IDATE"/scripts/tread`;do screen -S "$i" -d -m;done
         for i in `cat ./videourls/"$MONTH"/"$IDATE"/scripts/tread`; do screen -r "$i" -X stuff $"cd $HOME; bash $spath/$i $IDATE | tee ./logs/videos/$MONTH/$IDATE/$i.log \n" ;done
-        echo "Images Jobs has been started, you can monitor it using following screens"
+        echo "Videos Jobs has been started, you can monitor it using following screens"
         screen -ls
         echo "If you wish to check the running job status need to enter in screen using following command"
         echo "======================="
