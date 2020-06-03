@@ -166,3 +166,25 @@ cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-202
 chmod 600 /root/.ssh/mst.pem 
 cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil02.sh.log 
 exit
+cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil02.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil02.sh.log 
+cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil01.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil01.sh.log 
+cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil02.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil02.sh.log 
+cat ./keywords/May/31-05-2020/scripts/anil02.sh
+cat cat ./keywords/May/31-05-2020/urls/02
+cat cat ./keywords/May/31-05-2020/urls/02
+cd ./keywords/May/31-05-2020
+ll
+ll
+ls -la
+cd urls
+ls -la
+nano 01 
+exit
+cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil01.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil01.sh.log 
+cp -r /home/anil/.ssh/anil /root/.ssh/mst.pem
+exit
+cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil01.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil01.sh.log 
+exit
+cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil02.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil02.sh.log 
+screen -ls
+exit
