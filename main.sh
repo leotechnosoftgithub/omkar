@@ -202,8 +202,66 @@ three(){
 } 
 #web scrapping
 four(){
-        echo "four() called"
+        ls -la ./webscrapurls/ |awk '{print $9}' |sed '1,3d'
+        echo "Enter the Month name which you wants to harvest date"
+        read MONTH
+        ls -la ./webscrapurls/"$MONTH"/ |awk '{print $9}' |sed '1,3d'
+        echo "Enter the date that which you wants to Harvest data"
+        read IDATE
+        echo "How many servers you wish to run this Task ? (Ex.10)"
+        read ISER
+        echo "Enter the friendly name for Jobs (Ex-Anil)"
+        read FNAME
+        #Jobs & urls spliting
+        find ./webscrapurls/"$MONTH"/"$IDATE"/urls/ -type f -not -name 'file' -print0 | xargs -0  -I {} rm -v {}  > /dev/null
+        rm -rf ./webscrapurls/"$MONTH"/"$IDATE"/urls/tread
+        split --number=l/$ISER ${fspec} --numeric-suffixes=1 --suffix-length=2  ./webscrapurls/"$MONTH"/"$IDATE"/urls/file  ./webscrapurls/"$MONTH"/"$IDATE"/urls/
+        ls -la  ./webscrapurls/"$MONTH"/"$IDATE"/urls/ |awk '{print $9}' |grep -o '[0-9]\+'  > ./webscrapurls/"$MONTH"/"$IDATE"/urls/tread
+        if [ -d "./keywords/"$MONTH"/"$IDATE"/scripts" ]
+        then
+                #echo "Directory already present"
+                rm -rf ./webscrapurls/"$MONTH"/"$IDATE"/scripts/*
+                for i in `cat ./webscrapurls/"$MONTH"/"$IDATE"/urls/tread`;do cp ./mainurls/weburl.sh ./webscrapurls/"$MONTH"/"$IDATE"/scripts/"$FNAME$i".sh;done
+                ls -la  ./webscrapurls/"$MONTH"/"$IDATE"/scripts/  |grep "$FNAME" |awk '{print $9}' >  ./webscrapurls/"$MONTH"/"$IDATE"/scripts/tread
+                spath=./webscrapurls/"$MONTH"/"$IDATE"/scripts
+                upath=./webscrapurls/"$MONTH"/"$IDATE"/urls
+                path="xaa"
+               for i in `cat ./webscrapurls/"$MONTH"/"$IDATE"/scripts/tread`;do sed -i "s,$path,$upath,g" "$spath"/"$i";done
+               for i in `cat ./webscrapurls/"$MONTH"/"$IDATE"/urls/tread`;do find ./webscrapurls/"$MONTH"/"$IDATE"/scripts/"$FNAME""$i".sh |xargs sed -i "s,gaa,$i,g";done > /dev/null
+               for i in `cat ./webscrapurls/"$MONTH"/"$IDATE"/scripts/tread`;do sed -i "s,job1,$i,g" "$spath"/"$i";done
+        else
+                mkdir ./webscrapurls/"$MONTH"/"$IDATE"/scripts
+                for i in `cat ./webscrapurls/"$MONTH"/"$IDATE"/urls/tread`;do cp ./mainurls/weburl.sh ./webscrapurls/"$MONTH"/"$IDATE"/scripts/"$FNAME$i".sh;done
+                ls -la  ./webscrapurls/"$MONTH"/"$IDATE"/scripts/  |grep "$FNAME" |awk '{print $9}' >  ./webscrapurls/"$MONTH"/"$IDATE"/scripts/tread
+                spath=./webscrapurls/"$MONTH"/"$IDATE"/scripts
+                upath=./webscrapurls/"$MONTH"/"$IDATE"/urls
+                path="xaa"
+                for i in `cat ./webscrapurls/"$MONTH"/"$IDATE"/scripts/tread`;do sed -i "s,$path,$upath,g" "$spath"/"$i";done
+                for i in `cat ./webscrapurls/"$MONTH"/"$IDATE"/urls/tread`;do find ./webscrapurls/"$MONTH"/"$IDATE"/scripts/"$FNAME""$i".sh |xargs sed -i "s,gaa,$i,g";done > /dev/null
+                for i in `cat ./webscrapurls/"$MONTH"/"$IDATE"/scripts/tread`;do sed -i "s,job1,$i,g" "$spath"/"$i";done
+        fi
+        #screen job setup
+        HOME=`pwd`;
+        spath=./webscrapurls/"$MONTH"/"$IDATE"/scripts
+        for i in `cat ./webscrapurls/"$MONTH"/"$IDATE"/scripts/tread`;do screen -S "$i" -d -m;done
+        for i in `cat ./webscrapurls/"$MONTH"/"$IDATE"/scripts/tread`; do screen -r "$i" -X stuff $"cd $HOME; bash $spath/$i $IDATE | tee ./logs/webscrapurls/$MONTH/$IDATE/$i.log \n" ;done
+        echo "keywords Jobs has been started, you can monitor it using following screens"
+        screen -ls
+        echo "If you wish to check the running job status need to enter in screen using following command"
+        echo "======================="
+        echo "screen -r screen-name"
+        echo "======================="
+        echo "If job has already finihed you can exit from screen using following command"
+        echo "======================"
+        echo "exit"
+        echo "======================"
+        echo "If job is continues running then need to run following command"
+        echo "======================"
+        echo "CTL+A+D"
+        echo "======================"
         pause
+
+
 } 
 
 
@@ -225,7 +283,7 @@ show_menus() {
 # Exit when user the user select 3 form the menu option.
 read_options(){
 	local choice
-	read -p "Enter choice [ 1 - 4] " choice
+	read -p "Enter choice [ 1 - 5] " choice
 	case $choice in
 		1) one ;;
 		2) two ;;

@@ -1,216 +1,3 @@
-bash ./ 
-exit
-bash ./ 
-exit
-bash  
-exit
-bash  
-bash "" "" 
-exit
-bash "" "" 
- find ./imageurls/""/""/scripts/"""".sh |xargs bash   
-exit
-exit
-./" "" 
-exit
-./" "" 
-./" "" 
-./" "" 
-./" "" 
-./" "" 
-./" "" 
-./" "" 
-./" "" 
-./" "" 
-./ "" 
-exit
-./ "" 
-cd ./imageurls/May/13-05-2020/scripts;bash anil02.sh 13-05-2020 
-exit
-cd ./imageurls/May/13-05-2020/scripts;bash anil01.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil02.sh 13-05-2020 
-df -h
-cd /home/ubuntu/
-ll
-ls
-cd DHP
-ll
-cd /home/ubuntu/
-cd DHP
-ll
-exit
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil02.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil01.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/ani01.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/ani02.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil01.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil02.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil02.sh 13-05-2020 
-exit
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil01.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/job04.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/job05.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/job03.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/job06.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/job01.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/job02.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil01.sh 13-05-2020 | tee ./logs/images/May/13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil02.sh 13-05-2020 | tee ./logs/images/May/13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil03.sh 13-05-2020 | tee ./logs/images/May/13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil04.sh 13-05-2020 | tee ./logs/images/May/13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil04.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil04.sh.log 
-exit
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil03.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil03.sh.log 
-exit
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil01.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil01.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil02.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil02.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil10.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil10.sh.log 
-exit
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil04.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil04.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil03.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil03.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil02.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil02.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil07.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil07.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil06.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil06.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil05.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil05.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil09.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil09.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil08.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil08.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil01.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil01.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls///scripts/.  
-cd /home/ubuntu/DHP; bash ./imageurls///scripts/..  
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil04.sh 13-05-2020 
-exit
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil01.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil05.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil03.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil02.sh 13-05-2020 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/ad03.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/ad03.sh.log 
-ate -d "$(date -d "Mar 31 2019" +%F) +1 month ago"
-date -d "$(date -d "Mar 31 2019" +%F) +1 month ago"
-date -d "$(date -d "Mar 31 2019" +%F) +2 month ago"
-date -d "$(date -d "Mar 31 2019" +%F) +3 month ago"
-date -d "$(date -d "Mar 31 2019" +%d%m:y) +3 month ago"
-date -d "$(date -d "Mar 31 2019" +%D%M%Y) +3 month ago"
-date -d "$(date -d "Mar 31 2019" +%d%m%y) +3 month ago"
-date -d "$(date -d "Mar 31 2019" +%D%m%y) +3 month ago"
-date -d "$(date -d "Mar 31 2019" +%d%m%y) +3 month ago"
-date +"%d-%m-%Y
-date +"%d-%m-%Y"
-date -d "$(date -d "Mar 31 2019" +"%d-%m-%Y") +3 month ago"
-date -d "$(date -d "Mar 31 2019" +"%d-%m-%Y") +3 month ago"
-date -d "Mar 31 2019" +"%d-%m-%Y" +3 month ago"
-date -d "Mar 31 2019" +"%d-%m-%Y" +3 month agEND=$(date -d "2013-09-10" +%s);o"
-DATE=$(date -d "2013-09-05" +%s); 
-END=$(date -d "2013-09-10" +%s);
-DATE=$(date -d "2013-09-05" +%s); 
-while [[ "$DATE" -le "$END" ]]; do date -d "@$DATE" +%F; let DATE+=86400; done
-nano test.sh
-bash test.sh
-nano test.sh
-nano test.sh
-bash test.sh
-nano test.sh
-bash test.sh
-nano test.sh
-nano test.sh
-bash test.sh
- cal -m  | awk 'NR>2{Sfields=7-NF; if (Sfields == 1 ) {print $1;exit} if ( Sfields == 0) {  print $2;exit}}'
-for i in `seq 12`; do cal -m $i `date '+%Y'` | awk 'NR>2{Sfields=7-NF; if (Sfields == 1 ) {print $1;exit} if ( Sfields == 0) {  print $2;exit}}' ; done
-nano ps.py
-python ps.py 
-nano ps.py 
-python ps.py 
-nano ps.py 
-python ps.py 
-cal jan
-cal 
-cal 2020
-python ps.py 
-exit
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/ad02.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/ad02.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/ad01.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/ad01.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/ad05.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/ad05.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/ad04.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/ad04.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/tread 13-05-2020 | tee ./logs/images/May/13-05-2020/tread.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil02.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil02.sh.log 
-cat ./imageurls/May/13-05-2020/scripts/anil02.sh
-cat ./imageurls/May/13-05-2020/urls/02
-cat ./imageurls/May/13-05-2020/urls/02
-exit
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil01.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil01.sh.log 
-cd /home/ubuntu/DHP; bash ./imageurls/May/13-05-2020/scripts/anil03.sh 13-05-2020 | tee ./logs/images/May/13-05-2020/anil03.sh.log 
-cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil03.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil03.sh.log 
-nano /root/.ssh/mst.pem
-exit
-cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil01.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil01.sh.log 
-cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil02.sh.log 
-cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil04.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil04.sh.log 
-cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil04.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil04.sh.log 
-cd /var/ccd /root/.ssh/
-ll
-cd /root/.ssh/
-ll
-ls -la
-nano chmod 400 mst.pem 
-ll
-ls -la
-chmod 400 mst.pem 
-ll
-ls
- -la
-ls -la
-exit
-cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil02.sh.log 
-cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil02.sh.log 
-nano /root/.ssh/mst.pem
-cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil02.sh.log 
-chmod 600 /root/.ssh/mst.pem 
-cd /home/ubuntu/DHP; bash ./videourls/May/19-05-2020/scripts/anil02.sh 19-05-2020 | tee ./logs/images/May/19-05-2020/anil02.sh.log 
-exit
-cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil02.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil02.sh.log 
-cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil01.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil01.sh.log 
-cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil02.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil02.sh.log 
-cat ./keywords/May/31-05-2020/scripts/anil02.sh
-cat cat ./keywords/May/31-05-2020/urls/02
-cat cat ./keywords/May/31-05-2020/urls/02
-cd ./keywords/May/31-05-2020
-ll
-ll
-ls -la
-cd urls
-ls -la
-nano 01 
-exit
-cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil01.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil01.sh.log 
-cp -r /home/anil/.ssh/anil /root/.ssh/mst.pem
-exit
-cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil01.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil01.sh.log 
-exit
-cd /root/DHP; bash ./keywords/May/31-05-2020/scripts/anil02.sh 31-05-2020 | tee ./logs/keywords/May/31-05-2020/anil02.sh.log 
-screen -ls
-exit
-cd /root/DHP; bash ./videourls/May/27-05-2020/scripts/sanmay14.sh 27-05-2020 | tee ./logs/videos/May/27-05-2020/sanmay14.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil12.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil12.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil11.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil11.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil23.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil23.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil22.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil22.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil27.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil27.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil13.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil13.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil03.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil03.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil21.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil21.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil15.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil15.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil26.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil26.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil20.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil20.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil16.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil16.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil24.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil24.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil18.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil18.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil19.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil19.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil01.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil01.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil28.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil28.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil02.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil02.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil10.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil10.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil17.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil17.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil04.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil04.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil30.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil30.sh.log 
 cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil25.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil25.sh.log 
 cd /root/DHP; bash ./videourls/May/21-05-2020/scripts/Swapnil_21data25.sh 21-05-2020 | tee ./logs/videos/May/21-05-2020/Swapnil_21data25.sh.log 
 cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil09.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil09.sh.log 
@@ -356,3 +143,358 @@ cd /root/DHP; bash ./videourls/May/28-05-2020/scripts/swapnil28may10.sh 28-05-20
 cd /root/DHP; bash ./videourls/May/28-05-2020/scripts/swapnil28may12.sh 28-05-2020 | tee ./logs/videos/May/28-05-2020/swapnil28may12.sh.log 
 cd /root/DHP; bash ./videourls/May/28-05-2020/scripts/swapnil28may18.sh 28-05-2020 | tee ./logs/videos/May/28-05-2020/swapnil28may18.sh.log 
 cd /root/DHP; bash ./videourls/May/26-05-2020/scripts/Swapnil26data04.sh 26-05-2020 | tee ./logs/videos/May/26-05-2020/Swapnil26data04.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil03.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil03.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil04.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil04.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil02.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil02.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil05.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil05.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil06.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil06.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil07.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil07.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil08.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil08.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil09.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil09.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil10.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil10.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil11.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil11.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil12.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil12.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil13.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil13.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil14.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil14.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil15.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil15.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil16.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil16.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil17.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil17.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil18.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil18.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil19.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil19.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil20.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil20.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil21.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil21.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil22.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil22.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil23.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil23.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil24.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil24.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil25.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil25.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil26.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil26.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil27.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil27.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil28.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil28.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil29.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil29.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil30.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil30.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil31.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil31.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil32.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil32.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil33.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil33.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil34.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil34.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil35.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil35.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil36.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil36.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil37.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil37.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil38.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil38.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil39.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil39.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil40.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil40.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil01.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil01.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july38.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july38.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july36.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july36.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july35.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july35.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july25.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july25.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july34.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july34.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july40.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july40.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july39.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july39.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july04.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july04.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july18.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july18.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july31.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july31.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july30.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july30.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july32.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july32.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july27.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july27.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july37.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july37.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july26.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july26.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july05.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july05.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july15.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july15.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july33.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july33.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july03.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july03.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july29.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july29.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july28.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july28.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july26.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july26.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july22.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july22.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july14.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july14.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july33.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july33.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july25.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july25.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july27.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july27.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july35.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july35.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july07.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july07.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july28.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july28.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july05.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july05.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july36.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july36.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july23.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july23.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july03.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july03.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july21.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july21.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july25.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july25.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july09.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july09.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july24.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july24.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july07.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july07.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july08.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july08.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july04.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july04.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july04.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july04.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july17.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july17.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july25.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july25.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july06.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july06.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july10.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july10.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july24.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july24.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july23.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july23.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july09.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july09.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july05.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july05.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july07.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july07.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july13.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july13.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july29.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july29.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july38.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july38.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july24.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july24.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july02.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july02.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july30.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july30.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july21.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july21.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july16.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july16.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july19.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july19.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july01.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july01.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july10.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july10.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july23.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july23.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july26.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july26.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july31.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july31.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july11.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july11.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july10.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july10.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july06.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july06.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july29.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july29.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july31.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july31.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july08.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july08.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july22.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july22.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july24.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july24.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july01.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july01.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july18.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july18.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july23.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july23.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july12.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july12.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july21.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july21.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july03.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july03.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july16.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july16.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july29.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july29.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july32.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july32.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july19.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july19.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july17.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july17.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july22.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july22.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july03.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july03.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july20.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july20.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july30.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july30.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july13.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july13.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july06.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july06.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july02.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july02.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july32.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july32.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july36.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july36.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july37.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july37.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july09.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july09.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july37.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july37.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july08.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july08.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july30.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july30.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july20.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july20.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july14.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july14.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july10.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july10.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july07.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july07.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july34.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july34.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july32.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july32.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july16.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july16.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july28.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july28.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july39.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july39.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july40.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july40.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july28.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july28.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july35.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july35.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july27.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july27.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july15.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july15.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july14.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july14.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july08.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july08.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july39.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july39.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july13.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july13.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july31.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july31.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july02.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july02.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july36.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july36.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july21.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july21.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july38.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july38.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july01.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july01.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july06.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july06.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july40.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july40.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july33.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july33.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july11.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july11.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july12.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july12.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july34.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july34.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july11.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july11.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july27.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july27.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july20.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july20.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july22.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july22.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july02.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july02.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july03.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july03.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july04.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july04.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july05.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july05.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july06.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july06.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july07.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july07.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july08.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july08.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july09.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july09.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july10.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july10.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july11.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july11.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july12.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july12.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july13.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july13.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july14.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july14.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july15.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july15.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july16.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july16.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july17.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july17.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july18.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july18.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july19.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july19.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july20.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july20.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july21.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july21.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july22.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july22.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july23.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july23.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july24.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july24.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july25.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july25.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july26.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july26.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july27.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july27.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july28.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july28.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july29.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july29.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july30.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july30.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july31.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july31.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july32.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july32.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july33.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july33.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july34.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july34.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july35.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july35.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july36.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july36.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july37.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july37.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july38.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july38.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july39.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july39.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july40.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july40.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Sawapnil-20-july01.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Sawapnil-20-july01.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july12.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july12.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july02.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july02.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july14.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july14.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july39.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july39.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july31.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july31.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july40.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july40.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july38.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july38.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july19.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july19.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july15.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july15.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july33.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july33.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july32.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july32.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july09.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july09.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july04.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july04.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july17.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july17.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july20.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july20.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july40.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july40.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july37.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july37.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july26.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july26.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july17.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july17.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july39.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july39.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july16.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july16.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july17.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july17.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july01.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july01.sh.log 
+cd /root/swapnil; bash ./videourls/July/16-07-2020/scripts/Swapnil-16-july18.sh 16-07-2020 | tee ./logs/videos/July/16-07-2020/Swapnil-16-july18.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july18.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july18.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july09.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july09.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july05.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july05.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july03.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july03.sh.log 
+cd /root/swapnil; bash ./videourls/July/15-07-2020/scripts/Swapnil-15-july15.sh 15-07-2020 | tee ./logs/videos/July/15-07-2020/Swapnil-15-july15.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july14.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july14.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july26.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july26.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july08.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july08.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july15.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july15.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july13.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july13.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july04.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july04.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july24.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july24.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july19.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july19.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july19.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july19.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july30.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july30.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july34.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july34.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july11.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july11.sh.log 
+cd /root/swapnil; bash ./videourls/July/17-07-2020/scripts/Swapnil-17-july35.sh 17-07-2020 | tee ./logs/videos/July/17-07-2020/Swapnil-17-july35.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july38.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july38.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july07.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july07.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july37.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july37.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july16.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july16.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july12.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july12.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july18.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july18.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july02.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july02.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july29.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july29.sh.log 
+cd /root/swapnil; bash ./videourls/July/18-07-2020/scripts/Swapnil-18-july13.sh 18-07-2020 | tee ./logs/videos/July/18-07-2020/Swapnil-18-july13.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july01.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july01.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july05.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july05.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july06.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july06.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july10.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july10.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july11.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july11.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july12.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july12.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july20.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july20.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july21.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july21.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july22.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july22.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july23.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july23.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july25.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july25.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july27.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july27.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july28.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july28.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july33.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july33.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july34.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july34.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july35.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july35.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/Swapnil-20-july36.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/Swapnil-20-july36.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf40.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf40.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf39.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf39.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf31.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf31.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf38.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf38.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july13.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july13.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf17.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf17.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf37.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf37.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july06.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july06.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf03.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf03.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf32.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf32.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july11.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july11.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july12.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july12.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf15.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf15.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf13.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf13.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf30.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf30.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july07.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july07.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf29.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf29.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf14.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf14.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july04.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july04.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july20.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july20.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july16.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july16.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july05.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july05.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf24.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf24.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july01.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july01.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf26.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf26.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july19.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july19.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july08.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july08.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july31.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july31.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf09.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf09.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july10.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july10.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july07.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july07.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july02.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july02.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july15.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july15.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july30.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july30.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july09.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july09.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf08.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf08.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf07.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf07.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf27.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf27.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf16.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf16.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july08.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july08.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july03.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july03.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july29.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july29.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july27.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july27.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july22.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july22.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july17.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july17.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july04.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july04.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july16.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july16.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf34.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf34.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july20.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july20.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july24.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july24.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july21.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july21.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july40.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july40.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july28.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july28.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf19.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf19.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf18.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf18.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july09.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july09.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf02.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf02.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july14.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july14.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf23.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf23.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july33.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july33.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july34.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july34.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf33.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf33.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf28.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf28.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july14.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july14.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf25.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf25.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july12.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july12.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july32.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july32.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july17.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july17.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/swapnil-20-july13.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/swapnil-20-july13.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july19.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july19.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july35.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july35.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf36.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf36.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf35.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf35.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf06.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf06.sh.log 
+cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july23.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july23.sh.log 
