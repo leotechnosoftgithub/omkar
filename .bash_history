@@ -1,20 +1,3 @@
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil25.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil25.sh.log 
-cd /root/DHP; bash ./videourls/May/21-05-2020/scripts/Swapnil_21data25.sh 21-05-2020 | tee ./logs/videos/May/21-05-2020/Swapnil_21data25.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil09.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil09.sh.log 
-cd /root/DHP; bash ./videourls/May/21-05-2020/scripts/Swapnil_21data02.sh 21-05-2020 | tee ./logs/videos/May/21-05-2020/Swapnil_21data02.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil07.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil07.sh.log 
-cd /root/DHP; bash ./videourls/May/21-05-2020/scripts/Swapnil_21data26.sh 21-05-2020 | tee ./logs/videos/May/21-05-2020/Swapnil_21data26.sh.log 
-cd /root/DHP; bash ./videourls/May/21-05-2020/scripts/Swapnil_21data27.sh 21-05-2020 | tee ./logs/videos/May/21-05-2020/Swapnil_21data27.sh.log 
-cd /root/DHP; bash ./videourls/May/21-05-2020/scripts/Swapnil_21data29.sh 21-05-2020 | tee ./logs/videos/May/21-05-2020/Swapnil_21data29.sh.log 
-cd /root/DHP; bash ./videourls/May/21-05-2020/scripts/Swapnil_21data28.sh 21-05-2020 | tee ./logs/videos/May/21-05-2020/Swapnil_21data28.sh.log 
-cd /root/DHP; bash ./videourls/May/21-05-2020/scripts/Swapnil_21data18.sh 21-05-2020 | tee ./logs/videos/May/21-05-2020/Swapnil_21data18.sh.log 
-cd /root/DHP; bash ./videourls/May/21-05-2020/scripts/Swapnil_21data03.sh 21-05-2020 | tee ./logs/videos/May/21-05-2020/Swapnil_21data03.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil06.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil06.sh.log 
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil08.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil08.sh.log 
-exit
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil29.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil29.sh.log 
-exit
-cd /root/DHP; bash ./videourls/May/20-05-2020/scripts/swapnil14.sh 20-05-2020 | tee ./logs/videos/May/20-05-2020/swapnil14.sh.log 
 exit
 cd /root/DHP; bash ./videourls/May/21-05-2020/scripts/Swapnil_21data15.sh 21-05-2020 | tee ./logs/videos/May/21-05-2020/Swapnil_21data15.sh.log 
 cd /root/DHP; bash ./videourls/May/21-05-2020/scripts/Swapnil_21data01.sh 21-05-2020 | tee ./logs/videos/May/21-05-2020/Swapnil_21data01.sh.log 
@@ -498,3 +481,20 @@ cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf36.sh 20-07-2020 
 cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf35.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf35.sh.log 
 cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf06.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf06.sh.log 
 cd /root/swapnil; bash ./videourls/July/21-07-2020/scripts/Swapnil-21-july23.sh 21-07-2020 | tee ./logs/videos/July/21-07-2020/Swapnil-21-july23.sh.log 
+cd /root/swapnil; bash ./videourls/July/20-07-2020/scripts/asdf21.sh 20-07-2020 | tee ./logs/videos/July/20-07-2020/asdf21.sh.log 
+cd /root/swapnil; bash ./webscrapurls/July/25-07-2020/scripts/Anil01.sh 25-07-2020 | tee ./logs/webscrapurls/July/25-07-2020/Anil01.sh.log 
+clear
+df -h
+history |grep export
+clear
+df -h
+ll
+ls
+clear
+df -h
+cp -r alpha2.sh /var/www/html/
+ll
+cd ~
+screen -ls
+ll
+exit
